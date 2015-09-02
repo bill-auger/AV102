@@ -1,5 +1,34 @@
-# AV102
+## AV102: Managing Distributed Teams [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/saasbook/AV102?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/saasbook/AV102?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+This is an open repo for students of the AV102: Managing Distributed Teams class on edX-Edge.  It exists as a repository for ... [TODO:] ?
 
-An open repo for the AV102 Managing Distributed Teams class
+
+----
+### A Brief Introduction to "AV102: Managing Distributed Teams"
+
+In the first few days of the course, one of the new aspiring mentors exclaimed something to the effect of: "Yay, a third ESaaS course"; which prompted me to clarify the similarities to and the differences of this course from CS169.
+
+
+#### Is this a third ESaaS course - aka CS169.3?
+
+Although the BerkeleyX CS169 course is a prerequisite of this course; it should be seen less as an extension of the SaaS course and more as a parallel to it.  Where CS169 is an introduction to software project management and participation; this course is an introduction to team management and participation.  Where CS169 focuses on applied production skills; this course does a similar treatment to people skills.  The latter not may be as obviously important at first; but both of these skills are critical to the success of any software project.
+
+Though there will be some coding involved; the primary reason for the CS169 prerequisite is that the principal class project in this course is mentoring and tech support as a teaching assistant for the CS169 course.  A strong foundation in Ruby and the Agile Methodology is therefore required; with prior knowledge of the tools and course materials being extremely helpful, both to students of this course and to the CS169 students they are to mentor.  However, the core skill-set of this course including collaboration, communication, and coordination is not limited to software engineering; but is applicable to most professional environments.
+
+The bulk of the engineering skills that students will learn in this course will be precisely those that they acquired in CS169; but here they will be put into practice in a real-world environment.  The reinforcement value of teaching others what you "think" you know can not be underestimated.  The main distinction then is that this course is much less about the details of engineering and more about gaining practical experience working on a team.  So, rather than "CS169 Part 3", think of it more as a CS169 post-grad internship.
+
+
+#### Why is this so important to me, as an aspiring engineer?
+There once were days of legend in which lone pioneers such as Herra Linus or the Misters Gates and Stallman did incredible things for the world with their primitive tools that went "beep".  Unfortunately for fans of folklore (or is that tech-lore), those days have long since passed.  Though many still aspire to such nerdly greatness; lone programmers such as Julian Storer who achieve notoriety for their killer app are the more the exception today than the rule.  
+
+Todays software is immensely complex compared to that of the floppy disk days.  In fact it is not uncommon for a single web page to contain more source code than will fit onto a floppy disk.  Unless one is to devote ten years of their life to a single software project; maintenance is simply not feasible for a single person, and literally impossible for a project as complex as Firefox or a bleeding-edge video game, let alone an entire operating system.  Like it or not, as computing device become ever more capable, the software they execute will grow ever more in complexity to consume the new power; and ever more programmers and managers will be required to collaborate on their construction in order to release a product before the technology upon which they are built becomes obsolete.
+
+When this writer was getting started in programming about ten years ago, he (I) saw a very influential talk.  The speaker warned that there was a grave problem in the software field when it comes to managing a team of developers.  He said that, in his experience, the most talented programmers he had worked with were typically on the awkward side of sociability; and although they were brilliant and were independently capable of producing amazing artifacts, they were terrible at communicating their thoughts to others.  The take-away message being that if a manager were to assemble a team of the best programmers in town, it would be very tedious to get them to produce anything as a team; and that, in his opinion, he would rather have a team with less expertise if all were competent communicators.
+
+Note that his experience was with co-located teams working in a office environment; but the issue he raised is not nearly as much of a problem in an office environment where all team members congregate daily.  Even the least socially adept have the "luxury" of bumping into the boss once in a while over the coffee maker and being asked "... so, have you made any progress this week on that whatchamacallit you've been promising?".  This issue becomes far more stark for a distrbted team where a socially inept member may choose to communicate with his peers primarily in the form of in-code comments and/or terse pull-request remarks.
+
+Distributed teams are becoming ever more commonplace (even as a profession), especially with the explosion of Free and Open Source Software.  Sociability aside, there is the common hazard in a distributed team environment (especially open source) that it is very easy for members to be distracted by the more obvious influences in their "real life"; and it is not so difficult to procrastinate or refrain from any participation in software projects.  Though it may be an acceptable risk for hobbyists, this is a pitfall even for freelancers who depend on such projects; and why it is quite more challenging for a distributed team to be fruitful.  A greater degree of diligence is required to "hold it together" or  "keep it on track", as they say; and the ability to communicate concisely ones intentions and assumptions at each and every meeting is of the utmost importance.
+
+
+#### So, why is this course special? Why is this topic not taught more generally?
+It is hopefully obvious now why this course is important for would-be professionals; but ironically, you would be hard-pressed to find this subject matter being given adequate treatment in any university or trade school.  Teamwork, sure, but only in respect to traditional scenarios (co-located, waterfall, etc).  The Agile Methodology has only recently caught the attention of a small number of instructors and is by no means taught widely.  Inter-continental teamwork with team members who are distributed in space and time - forget it.  To give this subject a fair treatment would require several schools on several continents to co-create a novel course requiring their students to collaborate on practical applications across time-zones.  Who would grade the projects?  The logistics alone for traditional institutions would most likely make any such venture prohibitively expensive or at least impractical.  Ask a tenured professor how interested she would be to awaken at 3AM to negotiate her curriculum with some guy in China.  Indeed, this may well be the only such course publicly available in the world, folks; be happy and enjoy.
